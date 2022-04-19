@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android structure</string>
+    <string name="login">Login</string>
+    <string name="fill_all">Fill all</string>
+</resources>
